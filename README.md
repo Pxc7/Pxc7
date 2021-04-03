@@ -32,7 +32,7 @@ Donasi:
 <center>
 
 <p align="center">
- <p href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxc7" alt="pxc7" height="250" width="300" />
+ <p href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxc7" alt="pxc7" width="250" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
