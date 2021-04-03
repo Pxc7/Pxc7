@@ -16,15 +16,10 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Info:</h3>
 <p align="left">
 <a href="https://instagram.com/dokidokinime" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dokidokinime" height="30" width="40" /></a>
 </p>
-
-# Friend? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="100px">
-* [`WhatsApp`](http://wa.me/62895418200111)
-* [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
-* [`Instagram`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 
 # Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 Donasi:
