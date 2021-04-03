@@ -32,11 +32,11 @@ Donasi:
 <center>
 
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxc7" alt="pxc7" /></a> width="100px">
+ <p href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxc7" alt="pxc7" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> width="100px">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /> width="100px">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /> 
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc7&" alt="pxc7" />
