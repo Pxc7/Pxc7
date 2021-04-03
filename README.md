@@ -31,3 +31,8 @@ Donasi:
 <img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=250 height="250" align="center">
 <center>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc7&" alt="pxc7" /></p>
