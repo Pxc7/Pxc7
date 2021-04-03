@@ -14,11 +14,6 @@
 </p>
 </div>
 
-<p
-<img
-    src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
 # Friend? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="100px">
 * [`WhatsApp`](http://wa.me/62895418200111)
 * [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
