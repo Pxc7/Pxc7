@@ -36,7 +36,8 @@ Donasi:
 <center>
 
 <p align="center">
-<p>![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
