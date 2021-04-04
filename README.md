@@ -17,7 +17,7 @@
 
 <div align="center">
 ## My Info
-</div<
+</div>
 
 <p align='center'>
    <a href="https://instagram.com/dokidokinime"><img height="30" src="https://i.ibb.co/CskJ1C4/instagram.jpg"></a>&nbsp;&nbsp;
