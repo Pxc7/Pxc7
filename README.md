@@ -16,7 +16,7 @@
 
 
 <div align="center">
-## My Info
+My Info
 </div>
 
 <p align='center'>
