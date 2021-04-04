@@ -14,7 +14,11 @@
 </p>
 </div>
 
+
+<div align="center">
 ## My Info
+</div<
+
 <p align='center'>
    <a href="https://instagram.com/dokidokinime"><img height="30" src="https://i.ibb.co/CskJ1C4/instagram.jpg"></a>&nbsp;&nbsp;
     <a href="https://wa.me/62814622392081"><img height="30" src="https://i.ibb.co/yPcg8VZ/20210404-191914.png"></a>&nbsp;&nbsp;
