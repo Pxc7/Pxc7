@@ -35,9 +35,7 @@ Donasi:
 <img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=250 height="250" align="center">
 <center>
 
-<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
