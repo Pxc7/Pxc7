@@ -14,10 +14,12 @@
 </p>
 </div>
 
-<h3 align="left">My Info:</h3>
-<p align="left">
-<a href="https://instagram.com/dokidokinime" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dokidokinime" height="30" width="40" /></a>
-</p>
+<p align='center'>
+      My Info
+   <a href="https://instagram.com/dokidokinime"><img height="30" src="https://i.ibb.co/CskJ1C4/instagram.jpg"></a>&nbsp;&nbsp;
+    <a href="https://wa.me/62814622392081"><img height="30" src="https://i.ibb.co/yPcg8VZ/20210404-191914.png"></a>&nbsp;&nbsp;
+
+</P>
 
 # Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 Donasi:
