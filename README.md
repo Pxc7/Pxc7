@@ -47,7 +47,6 @@ Donasi:
 
 ## My Status
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /> 
-</p>
 
 ## My Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc7&" alt="pxc7" />
