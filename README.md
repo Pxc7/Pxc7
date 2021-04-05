@@ -35,19 +35,19 @@ Donasi:
 <img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=250 height="250" align="center">
 <center>
 
-## **My Repositories**
+## *My Repositories*
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot2&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot2)
 
-## **My Tropy**
+## *My Tropy*
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
 
 
-## **My Status**
+## *My Status*
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /> 
 
-## **My Streak**
+## *My Streak*
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc7&" alt="pxc7" />
