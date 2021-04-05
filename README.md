@@ -43,9 +43,9 @@ Donasi:
 ## My Tropy
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
 ## My Status
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxc7&show_icons=true&locale=en&layout=compact" alt="pxc7" /> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxc7&show_icons=true&locale=en" alt="pxc7" /> 
 
