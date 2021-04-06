@@ -32,8 +32,10 @@ Donasi:
 •0814622392081
 ```
 
+<p align='center'>
 <img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=250 height="250" align="center">
 <center>
+</p>
 
 ## *My Repositories*
 
