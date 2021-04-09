@@ -41,7 +41,7 @@ Donasi:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot2&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot3&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pxc7&repo=LoL-Bot3&theme=highcontrast)](https://github.com/Pxc7/LoL-Bot3)
 
 ## *My Tropy*
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
