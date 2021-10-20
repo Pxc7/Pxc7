@@ -3,10 +3,6 @@
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350px">
 
-### Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
-<img src="https://i.ibb.co/tqX1xmn/20210326-134340.jpg/" width=500/>
-<center>
-
 <p align="center">
 <a href="https://github.com/Pxc7/LoL-Bot/followers"><img title="Pengikut" src="https://img.shields.io/github/followers/Pxc7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Pxc7/LoL-Bot/network/members"><img title="Forksnya" src="https://img.shields.io/github/forks/Pxc7/LoL-Bot?color=red&style=flat-square"></a>
@@ -14,16 +10,40 @@
 </p>
 </div>
 
+___
+```
+            Halo
+```
+<p align="center">
+ <a href="https://github.com/Pxc7"><img src="https://cardivo.vercel.app/api?name=Itsuka Riu&description=Hi,%20i%27m%20Riu,%20Let%27s%20Be%20One%20Of%20My%Friend%20🤙%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/LSVSL9T/IMG-20210924-WA0004.jpg&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=https://wa.me/62814622392081&github=Pxc7&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
 
-<div align="center">
-My Info
-</div>
+___
 
-<p align='center'>
-   <a href="https://instagram.com/dokidokinime"><img height="30" src="https://i.ibb.co/CskJ1C4/instagram.jpg"></a>&nbsp;&nbsp;
-    <a href="https://wa.me/62814622392081"><img height="30" src="https://i.ibb.co/yPcg8VZ/20210404-191914.png"></a>&nbsp;&nbsp;
+```
+```
+___
 
-</P>
+### [`My Self Intro`](https://wa.me/62814622392081&text=Halo%20Bang.)
+```
+"Name": "Itsuka Riu",
+"Status": "Student",
+"Address": "Jakarta, Kepulauan Jawa, Indonesia",
+"Age": "18 Years"
+   
+"Thanks To My Partner"
+
+  "- Dimas"
+  "- Vean"
+  "- Xploid Code"
+  "- Hafidz Al Ghifari"
+  "- Farhan"
+  "- Rendy/Shiro"
+  "- Rio"
+  "- Yudha"
+  "- And All Providers Api"
+```
+___
 
 # Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 Donasi:
