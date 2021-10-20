@@ -12,7 +12,7 @@
 
 ___
 <p align="center">
- <a href="https://github.com/Pxc7"><img src="https://cardivo.vercel.app/api?name=Itsuka Riu&description=Hi,%20i%27m%20Riu,%20Let%27s%20Be%20One%20Of%20My%Friend%20🤙%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/LSVSL9T/IMG-20210924-WA0004.jpg&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=https://wa.me/62814622392081&github=Pxc7&pattern=leaf&colorPattern=%23eaeaea" width="350px">
+ <a href="https://github.com/Pxc7"><img src="https://cardivo.vercel.app/api?name=Itsuka Riu&description=Hi,%20i%27m%20Riu,%20Let%27s%20Be%20One%20Of%20My%Friend%20🤙&image=https://i.ibb.co/LSVSL9T/IMG-20210924-WA0004.jpg&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=https://wa.me/62814622392081&github=Pxc7&pattern=leaf&colorPattern=%23eaeaea" width="350px">
 </p>
 
 ### [`My Self Intro`](https://wa.me/62814622392081&text=Halo%20Bang.)
