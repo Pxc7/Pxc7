@@ -14,6 +14,8 @@
 ___
 ### [`My Self Intro`](https://wa.me/62814622392081&text=Halo%20Bang.)
 ```
+result: {
+
 "Name": "Itsuka Riu",
 "Status": "Student",
 "Address": "Jakarta, Kepulauan Jawa, Indonesia",
@@ -30,6 +32,7 @@ ___
   "- Rio"
   "- Yudha"
   "- And All Providers Api"
+}
 ```
 ___
 
