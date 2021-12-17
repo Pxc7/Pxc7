@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px"> 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px">
 
 <p align="center">
- <a href="https://github.com/Pxc7"><img src="https://cardivo.vercel.app/api?name=Itsuka Riu&description=Hi,%20i%27m%20Riu,%20Let%27s%20Be%20One%20Of%20My%Friend%20🤙&image=https://i.ibb.co/LSVSL9T/IMG-20210924-WA0004.jpg&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=https://wa.me/62814622392081&github=Pxc7&pattern=leaf&colorPattern=%23eaeaea" width="350px">
+ <a href="https://github.com/Pxc7"><img src="https://cardivo.vercel.app/api?name=Itsuka Riu&description=Hi,%20i%27m%20Riu,%20Let%27s%20Be%20One%20Of%20My%20Friend%20🤙&image=https://i.ibb.co/LSVSL9T/IMG-20210924-WA0004.jpg&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=https://wa.me/62814622392081&github=Pxc7&pattern=leaf&colorPattern=%23eaeaea" width="350px">
 </p>
 <p align="center">
 <a href="https://github.com/Pxc7/LoL-Bot/followers"><img title="Pengikut" src="https://img.shields.io/github/followers/Pxc7?color=blue&style=flat-square"></a>
